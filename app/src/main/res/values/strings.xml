@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">laprap_PC</string>
+    <string name="win">Hướng Dẫn Cài Đặt Windows 7 và Windows 10  </string>
+    <string name="laprap">Hướng Dẫn Lắp Ráp Máy Tính Cơ bản </string>
+    <string name="ghot">Hướng Dẫn Ghost Windows </string>
+    <string name="phammem">Hướng Dẫn Cài Một Số Phần Mềm Cơ Bản </string>
+    <string name="cautaomay">Cấu tạo của máy vi tính</string>
+    <string-array name="cacbuoclaprap">
+        <item>1. CPU (Central Processing Unit – Bộ xử lý trung tâm)</item>
+        <item>2. Bo mạch chủ (mainboard/motherboard):</item>
+        <item>3. Bộ nhớ RAM (Random Access Memory)</item>
+        <item>4. Ổ đĩa cứng (Hard Disk Drive – HDD)</item>
+        <item>5. Ổ đĩa quang (CD, DVD)</item>
+        <item>6. Card đồ hoạ (Video Graphic Array, Graphic card)</item>
+        <item>7. Card âm thanh (Audio card)</item>
+        <item>8. Card mạng (Network card)</item>
+        <item>9. Bộ nguồn (Power Supply Unit – PSU)</item>
+        <item>10. Màn hình máy tính (Monitor)</item>
+        <item>11. Bàn phím (Keyboard)</item>
+        <item>12. Chuột (Mouse)</item>
+        <item>13. Thùng máy (Case)</item>
+        <item>14. Quạt tản nhiệt</item>
+    </string-array>
+</resources>
+
